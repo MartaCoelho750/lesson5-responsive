@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: chocolate;
+}
+
+p {
+    text-align: justify;
+    background-color: rgb(207, 245, 232);
+    margin: 15px;
+    padding: 20px;
+    border-radius: 8px;
+    line-height: 1.5;
+    font: 16px;
+
+}
+
+a {
+    text-decoration: none;
+    color: chocolate;
+}
+
+.contact {
+    color: black;
+}
